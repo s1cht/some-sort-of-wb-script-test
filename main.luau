@@ -1,5 +1,3 @@
-require("modules/addition.luau")
-
 local g = 5
 
 print(g)
